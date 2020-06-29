@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\bin\Debug\18147171_QLNV.exe.config
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\bin\Debug\18147171_QLNV.exe
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\bin\Debug\18147171_QLNV.pdb
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\18147171_QLNV.csprojAssemblyReference.cache
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\_18147171_QLNV.Form1.resources
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\_18147171_QLNV.Properties.Resources.resources
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\18147171_QLNV.csproj.GenerateResource.cache
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\18147171_QLNV.exe
+C:\Users\User\source\repos\18147171_QLNV\18147171_QLNV\obj\Debug\18147171_QLNV.pdb
